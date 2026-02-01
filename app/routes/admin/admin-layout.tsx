@@ -42,4 +42,5 @@ const AdminLayout = () => {
         </div>
     )
 }
-export default AdminLayout
+
+export default AdminLayout;
